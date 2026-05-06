@@ -1,3 +1,4 @@
+![Stats](./profile/stats.svg)
 <!--
 **avicndugu/avicndugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
